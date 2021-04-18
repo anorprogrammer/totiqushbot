@@ -1,7 +1,8 @@
-pytelegrambotapi==2.3.1
-docutils==0.13.1
-packaging==16.8
-pipenv==11.8.0
-pyparsing==2.2.0
-virtualenv==15.1.0
-virtualenv-clone==0.3.0
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+pip==20.3.3
+pyTelegramBotAPI==3.7.7
+requests==2.25.1
+setuptools==51.1.1
+urllib3==1.26.4
